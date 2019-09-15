@@ -5,7 +5,7 @@ The neural network is built using the library:- keras.
 ### (*Although this project is highly technical, the code is well documented and output is already generated in the .ipynb file have a look to get an overview).
 
 ### Problem Overview
-
+![](Screenshot%20from%202019-09-15%2010-11-19.png)
 
 ### Predicting a single observation
-
+![](Screenshot%20from%202019-09-15%2010-23-35.png)
